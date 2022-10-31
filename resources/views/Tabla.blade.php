@@ -30,38 +30,39 @@
         </div>
     </nav>
     <p class=" display-4 text-center "> Tabla de sueños </p>
-<div class="container col-md-8 ">
-    <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Titulo del sueño</th>
-      <th scope="col">Descripcion</th>
-      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Soñe feo</td>
-      <td>Soñe con mi boda</td>
-      
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Que un dios ataco al mundo sin hacer nada </td>
-      <td>Que la boda fue en la playa y llego messi a la boda</td>
- 
-    </tr>
-   
-  </tbody>
-</table>
-<button href="/" class="btn btn-primary">Regreso</button>
-</div>
+    <div class="container col-md-8 ">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Titulo del sueño</th>
+                    <th scope="col">Descripcion</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Soñe feo</td>
+                    <td>Soñe con mi boda</td>
+
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Que un dios ataco al mundo sin hacer nada </td>
+                    <td>Que la boda fue en la playa y llego messi a la boda</td>
+
+                </tr>
+
+            </tbody>
+        </table>
+        <button href="/" class="btn btn-primary">Regreso</button>
+    </div>
 
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
-        < /body> <
-        /html>
+        </body>
+        
+        </html>
